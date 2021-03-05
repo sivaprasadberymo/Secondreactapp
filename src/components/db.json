@@ -1,0 +1,31 @@
+[
+  {
+     "id":1,
+     "name":"Berymo",
+     "value":"All popular web browsers support JavaScript as they provide built-in execution environments."
+
+  },
+  {
+     "id":2,
+     "name":"wipro",
+     "value":"All popular web browsers support JavaScript as they provide built-in execution environments."
+  },
+   {
+      "id":3,
+      "name":"In 1993, Mosaic, the first popular web browser, came into existence. In the year 1994, Netscape was founded by Marc Andreessen.",
+      "value":"All popular web browsers support JavaScript as they provide built-in execution environments."
+   },
+   {
+      "id":4,
+      "name":"oracle",
+      "value":"All popular web browsers support JavaScript as they provide built-in execution environments."
+   },
+   {
+      "id":4,
+      "name":"In 1993, Mosaic, the first popular web browser, came into existence. In the year 1994, Netscape was founded by Marc Andreessen.",
+      "value":"All popular web browsers support JavaScript as they provide built-in execution environments."
+   }
+   
+
+
+]

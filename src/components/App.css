@@ -3,7 +3,11 @@
       background-color:teal;
   }
   .logo{
-      font-size:30px;
+      font-size:50px;
       color:white;
       text-align:center;
   }
+  footer{
+      background-color:chocolate;
+  }
+  

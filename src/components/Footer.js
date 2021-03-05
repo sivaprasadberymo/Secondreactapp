@@ -1,10 +1,16 @@
 import React from 'react';
 import ReactDom from 'react-dom';
-const footer=()=>{
+const footer=(props)=>{
     return(
+        <footer>
         <center>
-        <div>&copy;developer.org</div>
+            <hr/>
+        <div>&copy;developer.org,{props.year}</div>
         </center>
+        About
+        <div>help</div>
+        <div>Developer option</div>
+        </footer>
     );
 }
 export default footer;
